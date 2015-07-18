@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImproveLayouts</string>
+
+    <string name="hello_world">Hello world! this is a tutorial to reuse layouts</string>
+    <string name="action_settings">Settings</string>
+</resources>
